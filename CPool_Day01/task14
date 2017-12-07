@@ -1,6 +1,0 @@
-"task04"
-├── "test01"
-├── "test02"*
-└── "test03" -> "test02"*
-
-0 directories, 3 files
